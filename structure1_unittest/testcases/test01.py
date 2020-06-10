@@ -16,7 +16,7 @@ class TryUnittestRequest(unittest.TestCase):
     # def setUp(self):
     #     print('\nthis is setup')
     # def tearDown(self):
-    #     print('\nthis is tearDown')
+    #     print('\nthis is tearDown  git')
     def test_request01(self):
         userinfo={
             'user.loginName':'819626117@qq.com',
